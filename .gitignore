@@ -1,0 +1,4 @@
+# ignore all logs and body.json. this includes my router login credentials
+logs/
+body.json
+CallHistory
